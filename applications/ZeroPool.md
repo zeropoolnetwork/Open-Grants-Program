@@ -118,11 +118,12 @@ The resulting software will be available to sign and prove, encrypt and decrypt 
 - withdrawals
 - transfers
 
-
+ Update: 
+ Final version of cryptographic library is available at https://github.com/zeropoolnetwork/libzeropool/tree/feature/audit-final-fixes.
 
 ### Milestone 3 — Implement private transactions contract for substrate pallet and client library
 
-* **Estimated Duration:** 2 months
+* **Estimated Duration:** 1 Jan 2022
 * **FTE:**  3
 * **Costs:** 27000 DAI
 
